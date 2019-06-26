@@ -12,7 +12,7 @@
 	//no cambiar el nombre de estas variables, ni el orden
 	$DINO_DB_USER 	= "root";
 	$DINO_DB_PASS 	= "root";
-	$DINO_DB_NAME 	= "prueba";
+	$DINO_DB_NAME 	= "dino";
 	$DINO_DB_SERVER = "localhost";
 
 
