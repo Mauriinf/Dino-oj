@@ -8,8 +8,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Database: `dino`
 --
-CREATE DATABASE IF NOT EXISTS `prueba` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `prueba`;
+CREATE DATABASE IF NOT EXISTS `dino` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE `dino`;
 
 --
 -- Table structure for table `Concurso`
